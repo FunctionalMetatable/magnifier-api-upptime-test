@@ -1,6 +1,6 @@
 # Change these first
 owner: FunctionalMetatable # Your GitHub organization or username, where this repository lives
-repo: magnifier-api-upptime # The name of this repository
+repo: magnifier-api-upptime-test # The name of this repository
 
 sites:
   - name: Magnifier API
@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /magnifier-api-upptime
+  baseUrl: /magnifier-api-upptime-test
   logoUrl: https://github.com/CluckCluckChicken/Magnifier/raw/main/Spyglass/wwwroot/images/icon.png
   name: Magnifier upptime
   introTitle: "haha lets see how google breaks"
