@@ -4,7 +4,7 @@
     "url": "https://magnifier-api.potatophant.net",
     "icon": "https://favicons.githubusercontent.com/magnifier-api.potatophant.net",
     "slug": "magnifier-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 406,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-14": 23,
       "2021-10-03": 1179,
       "2021-10-02": 1440,
