@@ -1,7 +1,7 @@
 url: https://magnifier-api.potatophant.net
-status: up
-code: 404
-responseTime: 554
-lastUpdated: 2022-06-30T06:38:20.860Z
+status: down
+code: 403
+responseTime: 107
+lastUpdated: 2022-06-30T15:32:28.294Z
 startTime: Fri Aug 06 2021 11:21:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
