@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/magnifier-api.potatophant.net",
     "slug": "magnifier-api",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.69%",
     "time": 434,
-    "timeDay": 341,
-    "timeWeek": 425,
-    "timeMonth": 427,
+    "timeDay": 463,
+    "timeWeek": 413,
+    "timeMonth": 424,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2022-06-30": 47,
@@ -22,8 +22,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 457,
       "2021-09-05": 1007,
-      "2021-09-04": 1440,
-      "2021-09-03": 1440
+      "2021-09-04": 1440
     }
   }
 ]
