@@ -4,7 +4,7 @@
     "url": "https://magnifier-api.potatophant.net",
     "icon": "https://icons.duckduckgo.com/ip3/magnifier-api.potatophant.net.ico",
     "slug": "magnifier-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 424,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2023-02-28": 0,
       "2022-06-30": 47,
       "2022-06-14": 23
     }
