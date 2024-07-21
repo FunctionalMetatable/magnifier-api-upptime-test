@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/magnifier-api.potatophant.net.ico",
     "slug": "magnifier-api",
     "status": "down",
-    "uptime": "51.84%",
+    "uptime": "51.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -13,10 +13,11 @@
     "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 399,
+    "timeMonth": 400,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-07-20": 83,
+      "2024-07-21": 97,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -379,8 +380,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   }
 ]
