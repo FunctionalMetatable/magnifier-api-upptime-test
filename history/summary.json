@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/magnifier-api.potatophant.net.ico",
     "slug": "magnifier-api",
     "status": "down",
-    "uptime": "34.02%",
+    "uptime": "34.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 444,
-    "timeDay": 783,
-    "timeWeek": 736,
-    "timeMonth": 637,
-    "timeYear": 444,
+    "time": 462,
+    "timeDay": 4603,
+    "timeWeek": 1294,
+    "timeMonth": 772,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2026-02-05": 161,
+      "2026-02-06": 161,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -379,8 +380,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   }
 ]
